@@ -10,4 +10,4 @@ program will require password authetication. The encryption key for this program
 is easily found within the program files so please keep this in mind when
 deciding what to store in the program. If anyone would like to send a pull 
 request and enhance the encryption of this program, I'd enjoy the opportunity
-to review your pull request and learn from it!
+to learn from it!
