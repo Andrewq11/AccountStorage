@@ -11,6 +11,3 @@ is easily found within the program files so please keep this in mind when
 deciding what to store in the program. If anyone would like to send a pull 
 request and enhance the encryption of this program, I'd enjoy the opportunity
 to review your pull request and learn from it!
-
-If you're like me and have one too many accounts to remember, I hope you find
-some use out of this program! 
